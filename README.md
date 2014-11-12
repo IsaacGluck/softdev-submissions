@@ -18,6 +18,12 @@ This project uses regex to scrape websites to answer a question from the user. I
 This project functions as a simple blogging service. It displays all posts, allows you to ceate new posts and click on a post and then comment on it.
 #### https://github.com/IsaacGluck/simple-blog.git
 
+### API Work
+#### Isaac Gluck, Julian Kal
+#### Description
+This project functions takes someone's latitude and longitude and returns their senators, congressmen, and their most recent votes cast.
+#### https://github.com/IsaacGluck/api-work.git
+
 
 Mini Projects
 --------------
