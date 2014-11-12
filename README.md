@@ -21,7 +21,7 @@ This project functions as a simple blogging service. It displays all posts, allo
 ### API Work
 #### Isaac Gluck, Julian Kal
 #### Description
-This project functions takes someone's latitude and longitude and returns their senators, congressmen, and their most recent votes cast.
+This project takes someone's latitude and longitude and returns their senators, congressmen, and their most recent votes cast.
 #### https://github.com/IsaacGluck/api-work.git
 
 
