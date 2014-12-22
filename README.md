@@ -28,9 +28,13 @@ This project takes someone's latitude and longitude and returns their senators, 
 Mini Projects
 --------------
 
+- Cow (Basic Javascript)
+  - Isaac Gluck, Coby Goldberg
+  - 7/cow/isaac-coby
+
 - login
   - Isaac Gluck, Coby Goldberg
-  - 7 / mongoproj / isaac-cobysucks
+  - 7/mongoproj/isaac-cobysucks
 
 - regexp
   - Isaac Gluck, Christina Ko, Leslie Bresnahan
