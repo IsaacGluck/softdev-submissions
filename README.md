@@ -6,11 +6,19 @@ Fall Semester
 Main Projects
 -------------
 
+### Final Project
+#### Isaac Gluck, Coby Goldberg, Aida Piccato, Leslie Bresnahan
+#### Description
+A web application to simplify the high school tutoring system.
+#### https://github.com/IsaacGluck/Tutee.git
+
+
 ### Language Interpreter/Data Scraping
 #### Isaac Gluck, Ivy Wong, Angela Lin, David Dvorkin
 #### Description
 This project uses regex to scrape websites to answer a question from the user. It functions similarly to the google "I'm feeling lucky" feature.
 #### https://github.com/ddvorkin/team_hacky.git
+
 
 ### Blogging Engine (SQL)
 #### Isaac Gluck, Lev Akabas, Barak Zhou
@@ -18,11 +26,13 @@ This project uses regex to scrape websites to answer a question from the user. I
 This project functions as a simple blogging service. It displays all posts, allows you to ceate new posts and click on a post and then comment on it.
 #### https://github.com/IsaacGluck/simple-blog.git
 
+
 ### API Work
 #### Isaac Gluck, Julian Kal
 #### Description
 This project takes someone's latitude and longitude and returns their senators, congressmen, and their most recent votes cast.
 #### https://github.com/IsaacGluck/api-work.git
+
 
 
 Mini Projects
